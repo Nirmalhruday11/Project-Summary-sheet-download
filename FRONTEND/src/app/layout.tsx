@@ -4,6 +4,11 @@ import './globals.css';
 export const metadata: Metadata = {
   title: 'VBIT - Major Project Individual Summary Sheet',
   description: 'Vignana Bharathi Institute of Technology - Major Project Individual Summary Sheet Portal',
+  icons: {
+    icon: '/vbit_logo.png',
+    shortcut: '/vbit_logo.png',
+    apple: '/vbit_logo.png',
+  },
 };
 
 export default function RootLayout({
